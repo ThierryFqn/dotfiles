@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thierry.fonquernie@gmail.com
+	name = Thierry Fonquernie
